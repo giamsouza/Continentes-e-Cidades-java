@@ -24,7 +24,10 @@ Se um número inválido for fornecido, o programa exibe uma mensagem de erro.
    git clone https://github.com/giamsouza/Continentes-e-Cidades-java.git
    cd Continentes-e-Cidades-java
 2.Compile o arquivo java
+```bash
 javac Continents.java
+
 3.Execute o programa
+```bash
 java Continents
 
