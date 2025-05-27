@@ -27,7 +27,4 @@ Se um número inválido for fornecido, o programa exibe uma mensagem de erro.
 ```bash
 javac Continents.java
 
-3.Execute o programa
-```bash
-java Continents
 
